@@ -1,5 +1,7 @@
 # Coding-Blog
 
+ALERT: THE PROJECT IS UNDER DEVELOPMENT
+
 Login Detail:
 
 Email: soumyadeep@gmail.com
