@@ -1,4 +1,4 @@
-# Codeing-Blog
+# Coding-Blog
 
 Login Detail
 
